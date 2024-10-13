@@ -11,7 +11,7 @@ Projeto de um conversor de dólar, euro ou libra esterlina para reais
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src="img/preview.pngpreview.png" width="100%">
 </p>
 
 
